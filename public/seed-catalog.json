@@ -1,0 +1,17 @@
+{
+  "description": "Starter playlist. Each entry is looked up by title and artist in whichever source the visitor chose (Spotify or previews). Add up to 30 tracks.",
+  "tracks": [
+    { "title": "Bound 2", "artist": "Kanye West" },
+    { "title": "Fallen Star", "artist": "The Neighbourhood" },
+    { "title": "luther", "artist": "Kendrick Lamar SZA" },
+    { "title": "The Less I Know The Better", "artist": "Tame Impala" },
+    { "title": "Honesty", "artist": "Pink Sweat$" },
+    { "title": "Mujer Sin Nombre", "artist": "Penyair El Muisca" },
+    { "title": "Always", "artist": "Daniel Caesar" },
+    { "title": "In Your Eyes", "artist": "The Weeknd" },
+    { "title": "El Final del Cuento", "artist": "Penyair Alka Produce" },
+    { "title": "I Don't Want to Miss a Thing", "artist": "Aerosmith" },
+    { "title": "A Veces", "artist": "Al2 El Aldeano" },
+    { "title": "Reflections", "artist": "The Neighbourhood" }
+  ]
+}
